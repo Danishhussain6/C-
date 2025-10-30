@@ -31,6 +31,7 @@ int main()
         break;
     default:
         cout << "Not a valid day" << endl;
-        return 0;
+        
     }
+     return 0;
 }
